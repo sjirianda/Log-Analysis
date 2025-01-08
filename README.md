@@ -17,7 +17,7 @@ Differentiate between true positives and false positives.
 - CyberChef: The ultimate tool for de-obfuscation and decoding.
 
 ## 🚀 Step-by-Step Guide
-1. According to the alert the activity occurred on Dec 1st, 2024, between 0900 and 0930. We can set this as our time window by clicking the timeframe settings in the upper-right corner. 
+1. The alert occurred on Dec 1st, 2024, between 0900 and 0930. We can set this as our time window by clicking the timeframe settings in the upper-right corner. 
 ![image](https://github.com/user-attachments/assets/49ef2d9e-d919-4c99-8a5f-1fca321fef2a)
 
 2. Since we are looking for events related to PowerShell, we can customize the fields to see pertinent information.We can see that someone ran the same encoded PowerShell command on multiple machines.
